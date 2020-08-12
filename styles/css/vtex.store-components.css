@@ -10,7 +10,7 @@
 
 .infoCardCallActionContainer :global(.vtex-button) {
     color: white;
-    background-color: gray;
+    background-color: blue;
     border: transparent;
 }
 
@@ -31,4 +31,7 @@
     margin: 0 auto;
     padding: 0;
 
+}
+.imageElement{
+    max-width: 100%;   
 }
