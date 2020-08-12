@@ -74,7 +74,7 @@
     "props": {
       "initialSelection": "empty",
       "showValueForVariation": "image",
-      "showVariantionErrorMessage": "true"
+      "showVariantionErrorMessage": true
     }
   }
 
