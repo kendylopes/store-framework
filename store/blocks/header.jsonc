@@ -40,14 +40,15 @@
        "children": [
          "logo", 
          "header-spacer",
+         "search-bar",
          "minicart",
          "login"
        ],
 
        "props": {
-           "inverted": "true",
-           "sticky": "true",
-           "fullWidth": "false"
+           "inverted": true,
+           "sticky": true,
+           "fullWidth": false
        }
     },
 
@@ -61,7 +62,7 @@
       
         "props": {
           "sticky": true,
-          "inverted":true
+          "inverted": true
         }
       },
       
