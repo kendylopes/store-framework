@@ -66,14 +66,14 @@
 
     "rich-text#home1": {
         "props": {
-          "text": "Área do conteúdo da tab-list.item com  tabId = majorAppliances" ,
+          "text": "Texto para Major Appliances" ,
           "textPosition" : "CENTER" ,
           "font": "t-header -3"
        }
      },
      "rich-text#home2": {
         "props": {
-          "text": "Área do conteúdo da tab-list.item com  tabId = electronics" ,
+          "text": "Texto para Electronics" ,
           "textPosition": "CENTER" ,
           "font": "t-header -3"
        }
