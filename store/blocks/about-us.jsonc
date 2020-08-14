@@ -24,7 +24,7 @@
     "tab-list.item#home1":{
         "props":{
             "tabId": "majorAppliances",
-            "label": "Principais aparelhos",
+            "label": "Major Appliances",
             "defaultActiveTab": true
         }
     },
@@ -32,7 +32,7 @@
     "tab-list.item#home2":{
         "props":{
             "tabId": "electronics",
-            "label": "Eletronicos"
+            "label": "Electronics"
         }
     },
 
