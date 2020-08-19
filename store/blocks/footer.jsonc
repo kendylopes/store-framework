@@ -41,24 +41,21 @@
    },
  
     "flex-layout.col#footer-left-desktop":{
-       "children":[
-         "accepted-payment-methods"
+      "children":[
+        "accepted-payment-methods"
        ]
     },
  
     "flex-layout.col#footer-left-mobile":{
-     "children":[
-       "accepted-payment-methods"
-     ]
-  },
+      "children":[
+        "accepted-payment-methods"
+      ]
+    },
  
     "accepted-payment-methods":{
       "props": {
-         "paymentMethods": [
-             "mastercard",
-             "visa",
-             "diners club"
-         ]
+         "paymentMethods": ["mastercard","visa","diners club"],
+         "showInColor": true
        }
     },
  
