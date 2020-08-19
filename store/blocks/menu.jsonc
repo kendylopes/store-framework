@@ -40,7 +40,7 @@
     ],
     "props": {
       "width": "auto",
-      "orientation": "vertital"
+      "orientation": "vertical"
     }
   },
   
@@ -51,7 +51,7 @@
       "menu-item#coffee"
     ],
     "props": {
-      "orientation": "vertital"
+      "orientation": "vertical"
     }
   },
 
@@ -62,7 +62,7 @@
       "menu-item#tvs"
     ],
     "props": {
-      "orientation": "vertital"
+      "orientation": "vertical"
     }
   }
 } 
