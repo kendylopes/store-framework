@@ -32,7 +32,8 @@
         "paymentMethods": [
             "mastercard",
             "visa",
-            "diners club"]
+            "diners club"
+        ]
       }
    },
 
