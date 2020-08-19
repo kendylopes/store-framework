@@ -28,11 +28,29 @@
     }
    },
 
+   "flex-layout.row#footer-mobile": {
+    "children": [
+      "flex-layout.col#footer-left-mobile",
+      "flex-layout.col#footer-right-mobile"
+   ],
+   "props": {
+     "blockClass": "footer-row",
+     "paddingTop": 7,
+     "paddingBottom": 7
+   }
+  },
+
    "flex-layout.col#footer-left-desktop":{
       "children":[
         "accepted-payment-methods"
       ]
    },
+
+   "flex-layout.col#footer-left-mobile":{
+    "children":[
+      "accepted-payment-methods"
+    ]
+ },
 
    "accepted-payment-methods":{
      "props": {
@@ -46,9 +64,15 @@
 
    "flex-layout.col#footer-right-desktop":{
      "children":[
-         "social-networks"
+        "social-networks"
      ]  
    },
+
+   "flex-layout.col#footer-right-mobile":{
+    "children":[
+       "social-networks"
+    ]  
+  },
 
    "social-networks": {
     "props": {
