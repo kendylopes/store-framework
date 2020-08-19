@@ -1,5 +1,6 @@
 {
    "footer": {
+     "blocks": ["footer-layout.desktop"],
      "blocks": ["footer-layout.desktop"]
    },
     
@@ -8,6 +9,12 @@
        "flex-layout.row#footer-1-desktop"
      ]
    },
+
+   "footer-layout.mobile": {
+    "children": [
+      "flex-layout.row#footer-mobile"
+    ]
+  },
 
    "flex-layout.row#footer-1-desktop": {
      "children": [
