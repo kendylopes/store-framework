@@ -39,7 +39,6 @@
       "menu-item#washers"
     ],
     "props": {
-      "width": "auto",
       "orientation": "vertical"
     }
   },
